@@ -1,0 +1,8 @@
+2023-01-31 17:23:17,870 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 17:23:17,948 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 17:29:47,610 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 17:29:47,709 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 17:33:23,539 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 17:33:23,539 - Reducer buckets have been rebuilt in this iteration.
+2023-01-31 19:13:56,796 - {'epoch': 0, 'Train Loss': 1.3723855868096242, 'Train Acc': tensor(16899., device='cuda:0')}
+2023-01-31 19:13:56,796 - {'epoch': 0, 'Train Loss': 1.3446891086409465, 'Train Acc': tensor(17097., device='cuda:1')}
